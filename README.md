@@ -8,6 +8,10 @@ This project involves fine-tuning the pre-trained GPT-2 transformer model on a c
 
 *Developed as part of my Generative AI Internship at SkillCraft Technology.*
 
+* Here’s the main interface of the Text Generation with GPT-2:
+
+![Main UI](https://github.com/Dharmendra0305/PRODIGY_GA_01/blob/70fff3931c31a7bc324622c8b6be6044e17b1973/1.png)
+
 ## ✨ Features
 * **Custom Fine-Tuning:** Adapts OpenAI's base GPT-2 model to mimic the style and structure of specific training data.
 * **Interactive UI:** A Gradio-based web app for seamless text generation.
@@ -40,6 +44,10 @@ Since this project was developed in Google Colab, you can run it locally using J
    ```python
    !pip install transformers datasets torch gradio
 4. Run the Application: Execute all cells in the notebook. The Gradio web interface will launch directly inside your notebook output, or you can click the    generated link to open it in your browser.
+
+* Example of Text Generation:
+
+![Conversion Example](https://github.com/Dharmendra0305/PRODIGY_GA_01/blob/70fff3931c31a7bc324622c8b6be6044e17b1973/2.png)
 
 ## 🤝 Contribution Guidelines
 - Contributions are welcome! If you'd like to improve this project:
